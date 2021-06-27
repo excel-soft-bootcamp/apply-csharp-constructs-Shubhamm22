@@ -1,0 +1,13 @@
+D:\visual studio\First\InhertinceCollegeProgram\obj\Debug\netcoreapp3.1\InhertinceCollegeProgram.AssemblyInfoInputs.cache
+D:\visual studio\First\InhertinceCollegeProgram\obj\Debug\netcoreapp3.1\InhertinceCollegeProgram.AssemblyInfo.cs
+D:\visual studio\First\InhertinceCollegeProgram\obj\Debug\netcoreapp3.1\InhertinceCollegeProgram.csproj.CoreCompileInputs.cache
+D:\visual studio\First\InhertinceCollegeProgram\bin\Debug\netcoreapp3.1\InhertinceCollegeProgram.exe
+D:\visual studio\First\InhertinceCollegeProgram\bin\Debug\netcoreapp3.1\InhertinceCollegeProgram.deps.json
+D:\visual studio\First\InhertinceCollegeProgram\bin\Debug\netcoreapp3.1\InhertinceCollegeProgram.runtimeconfig.json
+D:\visual studio\First\InhertinceCollegeProgram\bin\Debug\netcoreapp3.1\InhertinceCollegeProgram.runtimeconfig.dev.json
+D:\visual studio\First\InhertinceCollegeProgram\bin\Debug\netcoreapp3.1\InhertinceCollegeProgram.dll
+D:\visual studio\First\InhertinceCollegeProgram\bin\Debug\netcoreapp3.1\InhertinceCollegeProgram.pdb
+D:\visual studio\First\InhertinceCollegeProgram\obj\Debug\netcoreapp3.1\InhertinceCollegeProgram.dll
+D:\visual studio\First\InhertinceCollegeProgram\obj\Debug\netcoreapp3.1\InhertinceCollegeProgram.pdb
+D:\visual studio\First\InhertinceCollegeProgram\obj\Debug\netcoreapp3.1\InhertinceCollegeProgram.genruntimeconfig.cache
+D:\visual studio\First\InhertinceCollegeProgram\obj\Debug\netcoreapp3.1\InhertinceCollegeProgram.csproj.AssemblyReference.cache

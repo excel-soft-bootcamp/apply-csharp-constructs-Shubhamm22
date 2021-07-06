@@ -1,0 +1,12 @@
+D:\visual studio\First\BmiCalculatorProgram\bin\Debug\netcoreapp3.1\BmiCalculatorProgram.exe
+D:\visual studio\First\BmiCalculatorProgram\bin\Debug\netcoreapp3.1\BmiCalculatorProgram.deps.json
+D:\visual studio\First\BmiCalculatorProgram\bin\Debug\netcoreapp3.1\BmiCalculatorProgram.runtimeconfig.json
+D:\visual studio\First\BmiCalculatorProgram\bin\Debug\netcoreapp3.1\BmiCalculatorProgram.runtimeconfig.dev.json
+D:\visual studio\First\BmiCalculatorProgram\bin\Debug\netcoreapp3.1\BmiCalculatorProgram.dll
+D:\visual studio\First\BmiCalculatorProgram\bin\Debug\netcoreapp3.1\BmiCalculatorProgram.pdb
+D:\visual studio\First\BmiCalculatorProgram\obj\Debug\netcoreapp3.1\BmiCalculatorProgram.AssemblyInfoInputs.cache
+D:\visual studio\First\BmiCalculatorProgram\obj\Debug\netcoreapp3.1\BmiCalculatorProgram.AssemblyInfo.cs
+D:\visual studio\First\BmiCalculatorProgram\obj\Debug\netcoreapp3.1\BmiCalculatorProgram.csproj.CoreCompileInputs.cache
+D:\visual studio\First\BmiCalculatorProgram\obj\Debug\netcoreapp3.1\BmiCalculatorProgram.dll
+D:\visual studio\First\BmiCalculatorProgram\obj\Debug\netcoreapp3.1\BmiCalculatorProgram.pdb
+D:\visual studio\First\BmiCalculatorProgram\obj\Debug\netcoreapp3.1\BmiCalculatorProgram.genruntimeconfig.cache

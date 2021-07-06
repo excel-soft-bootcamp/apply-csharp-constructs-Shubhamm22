@@ -1,0 +1,6 @@
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMICalculatorLib\bin\Debug\BMICalculatorLib.dll
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMICalculatorLib\bin\Debug\BMICalculatorLib.pdb
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.AssemblyReference.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMICalculatorLib\obj\Debug\BMICalculatorLib.dll
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMICalculatorLib\obj\Debug\BMICalculatorLib.pdb

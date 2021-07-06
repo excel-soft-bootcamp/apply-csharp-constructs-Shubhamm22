@@ -1,0 +1,6 @@
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIValidationLib\bin\Debug\BMIValidationLib.dll
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIValidationLib\bin\Debug\BMIValidationLib.pdb
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIValidationLib\obj\Debug\BMIValidationLib.csproj.AssemblyReference.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIValidationLib\obj\Debug\BMIValidationLib.csproj.CoreCompileInputs.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIValidationLib\obj\Debug\BMIValidationLib.dll
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIValidationLib\obj\Debug\BMIValidationLib.pdb

@@ -1,0 +1,2 @@
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMICalculationApplication\obj\Debug\BMICalculationApplication.csproj.AssemblyReference.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMICalculationApplication\obj\Debug\BMICalculationApplication.csproj.CoreCompileInputs.cache

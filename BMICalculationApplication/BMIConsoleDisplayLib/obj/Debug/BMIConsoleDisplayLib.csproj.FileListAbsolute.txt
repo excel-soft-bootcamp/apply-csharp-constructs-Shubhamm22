@@ -1,0 +1,6 @@
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIConsoleDisplayLib\bin\Debug\BMIConsoleDisplayLib.dll
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIConsoleDisplayLib\bin\Debug\BMIConsoleDisplayLib.pdb
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIConsoleDisplayLib\obj\Debug\BMIConsoleDisplayLib.csproj.AssemblyReference.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIConsoleDisplayLib\obj\Debug\BMIConsoleDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIConsoleDisplayLib\obj\Debug\BMIConsoleDisplayLib.dll
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIConsoleDisplayLib\obj\Debug\BMIConsoleDisplayLib.pdb

@@ -1,7 +1,0 @@
-D:\visual studio\First\DoorSecuritySystem\bin\Debug\DoorSecuritySystem.exe.config
-D:\visual studio\First\DoorSecuritySystem\bin\Debug\DoorSecuritySystem.exe
-D:\visual studio\First\DoorSecuritySystem\bin\Debug\DoorSecuritySystem.pdb
-D:\visual studio\First\DoorSecuritySystem\obj\Debug\DoorSecuritySystem.csproj.AssemblyReference.cache
-D:\visual studio\First\DoorSecuritySystem\obj\Debug\DoorSecuritySystem.csproj.CoreCompileInputs.cache
-D:\visual studio\First\DoorSecuritySystem\obj\Debug\DoorSecuritySystem.exe
-D:\visual studio\First\DoorSecuritySystem\obj\Debug\DoorSecuritySystem.pdb

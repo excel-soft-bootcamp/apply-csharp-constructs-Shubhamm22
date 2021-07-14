@@ -1,9 +1,0 @@
-D:\visual studio\First\CSVLib\bin\Debug\netcoreapp3.1\CSVLib.deps.json
-D:\visual studio\First\CSVLib\bin\Debug\netcoreapp3.1\CSVLib.dll
-D:\visual studio\First\CSVLib\bin\Debug\netcoreapp3.1\CSVLib.pdb
-D:\visual studio\First\CSVLib\obj\Debug\netcoreapp3.1\CSVLib.csproj.AssemblyReference.cache
-D:\visual studio\First\CSVLib\obj\Debug\netcoreapp3.1\CSVLib.AssemblyInfoInputs.cache
-D:\visual studio\First\CSVLib\obj\Debug\netcoreapp3.1\CSVLib.AssemblyInfo.cs
-D:\visual studio\First\CSVLib\obj\Debug\netcoreapp3.1\CSVLib.csproj.CoreCompileInputs.cache
-D:\visual studio\First\CSVLib\obj\Debug\netcoreapp3.1\CSVLib.dll
-D:\visual studio\First\CSVLib\obj\Debug\netcoreapp3.1\CSVLib.pdb
